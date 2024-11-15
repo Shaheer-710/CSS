@@ -1,0 +1,41 @@
+<style>
+        * {
+            color: rgb(34, 34, 34);
+            font-weight: bold;
+        }
+      body {
+            background: rgb(26, 205, 152);
+            background: radial-gradient(circle, rgba(26, 205, 152, 1) 0%, rgba(187, 139, 36, 1) 49%, rgba(187, 139, 36, 1) 55%, rgba(47, 92, 154, 1) 97%);
+        }
+  
+
+        h1 {
+            font-weight: bolder;
+            font-size: 80px;
+            text-align: center;
+            margin-top: 40px
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+        }
+
+        form>input {
+            padding: 10px;
+            border-radius: 27px;
+            border-top: none;
+        
+        }
+
+
+        button{
+            margin-top: 50px;
+            padding: 15px;
+            border-radius: 27px;
+            background-color: rgb(28, 216, 28);
+            color: azure;
+            text-decoration: none;
+       
+        }
+    </style>
