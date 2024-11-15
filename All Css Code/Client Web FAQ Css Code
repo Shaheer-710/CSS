@@ -1,0 +1,67 @@
+
+    <style>
+        h1 {
+
+            font-family: fantasy;
+            margin-top: 50px;
+            text-align: center;
+            font-size: 50px;
+            color: orange;
+        }
+
+        p {
+            text-align: center;
+            font-family: sans-serif;
+            font-size: 1.2rem;
+            color: black;
+            line-height: 1.4;
+        }
+
+        .pannel {
+            padding: 0 2rem 2.5rem 2rem;
+        }
+
+        h3 {
+
+            font-family: fantasy;
+            margin-top: 50px;
+            text-align: center;
+            font-size: 30px;
+        }
+
+        body {
+            background-color: whitesmoke;
+        }
+
+        .FAQ {
+            margin: auto;
+            max-width: 75%;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+
+        .accordion {
+            background-color: aliceblue;
+            color: black;
+            cursor: pointer;
+            font-size: 1.2rem;
+            width: 100%;
+            padding: 2rem;
+            border: none;
+            transition: 0.4s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: bold;
+        }
+
+        .accordion i {
+            font-size: 1.6rem;
+        }
+
+        .accordion:hover {
+            background-color: rgb(128, 120, 120);
+        }
+    </style>
