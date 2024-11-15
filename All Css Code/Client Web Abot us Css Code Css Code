@@ -1,0 +1,29 @@
+<style>
+    h1 {
+
+      font-family: fantasy;
+      margin-top: 50px;
+      text-align: center;
+      font-size: 50px;
+    }
+
+    p {
+      text-align: center;
+      font-family: sans-serif;
+      margin-top: 50px;
+      color: aliceblue;
+      font-size: 20px;
+
+    }
+
+    h3 {
+
+      font-family: fantasy;
+      margin-top: 50px;
+      text-align: center;
+      font-size: 30px;
+    }
+    body {
+    background-color: whitesmoke;
+}
+  </style>
